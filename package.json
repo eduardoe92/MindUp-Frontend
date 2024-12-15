@@ -20,6 +20,7 @@
     "react-router-dom": "^6.28.0",
     "react-stomp-hooks": "^3.0.1",
     "sonner": "^1.7.0",
+    "template-vite-react": "file:",
     "zustand": "^5.0.1"
   },
   "devDependencies": {
